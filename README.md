@@ -1,16 +1,9 @@
-# flutter_application_1
+# Provide_navigation_1
 
-A new Flutter project.
+Navigation and routing. On the product specified in the products_detail.dart:
+1. pixel 1
+2. laptop
+3. tablets
+4. pen drive
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
